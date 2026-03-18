@@ -125,6 +125,8 @@ function loadCustomProblem() {
     
     app.visualizeGraph();
 }
+
+---
 ## 🎓 Learning Outcomes
 
 Graph coloring concepts
@@ -134,7 +136,7 @@ Approximation algorithms
 Complexity analysis
 
 Real-world scheduling
-
+---
 ## 🚀 Future Scope
 
 Advanced algorithms (DSATUR, Welsh-Powell)
@@ -144,7 +146,7 @@ Performance comparison
 Export (PDF/CSV)
 
 Database integration
-
+---
 ## 👨‍💻 Author
 
 Dhanavath Samith Raj
