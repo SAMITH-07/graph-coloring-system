@@ -126,30 +126,32 @@ function loadCustomProblem() {
     app.visualizeGraph();
 }
 
+
 ---
+
 ## 🎓 Learning Outcomes
 
-Graph coloring concepts
+- Graph coloring concepts  
+- Approximation algorithms  
+- Complexity analysis  
+- Real-world scheduling applications  
 
-Approximation algorithms
-
-Complexity analysis
-
-Real-world scheduling
 ---
+
 ## 🚀 Future Scope
 
-Advanced algorithms (DSATUR, Welsh-Powell)
+- Advanced algorithms (DSATUR, Welsh-Powell)  
+- Performance comparison of algorithms  
+- Export functionality (PDF/CSV)  
+- Database integration  
 
-Performance comparison
-
-Export (PDF/CSV)
-
-Database integration
 ---
+
 ## 👨‍💻 Author
 
-Dhanavath Samith Raj
-CSE 4th Year | Reg No: 896
+**Dhanavath Samith Raj**  
+CSE 4th Year | Reg No: 896  
 
-Turning graph theory into real-world solutions 🚀
+---
+
+> Turning graph theory into real-world solutions 🚀
